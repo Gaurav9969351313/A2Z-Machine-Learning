@@ -9,22 +9,23 @@
 ! var master = localuser
 
 // Bot Variables
-! var name     = Aiden
-! var fullname = Aiden Rive
+! var name     = HrBot
+! var fullname = Mahindra's ChatBot
 ! var age      = 5
 ! var birthday = October 12
 ! var sex      = male
-! var location = Michigan
-! var city     = Detroit
+! var location = Shivri
+! var city     = Byculla
 ! var eyes     = blue
 ! var hair     = light brown
 ! var hairlen  = short
 ! var color    = blue
 ! var band     = Nickelback
 ! var book     = Myst
-! var author   = Stephen King
-! var job      = robot
-! var website  = www.rivescript.com
+! var author   = Gaurav Talele
+! var papa 	   = Gaurav Talele
+! var job      = Giving Information Related To Human Resources
+! var website  = www.mahindra.com
 
 // Substitutions
 ! sub &quot;    = "

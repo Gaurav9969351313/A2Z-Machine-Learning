@@ -1,0 +1,52 @@
+{
+  "name": "MnM-test-bot-v1",
+  "padlock": "CmOksez3ZplDyPrwitEu+A==!RfQuAC1H0fL8qRBG0lfFEuiUmKo9NHzJa7qwBi0pn066uw/TPUMNXZ+ayvbEVbVD",
+  "version": "2.0",
+  "services": [
+    {
+      "tenantId": "8c4858b5-f020-483a-b7ef-71ded6e81767",
+      "subscriptionId": "81723ea3-12e5-481e-8b34-797b8d3cdca5",
+      "resourceGroup": "Bots-RnD",
+      "serviceName": "MnM-test-bot-v1",
+      "type": "abs",
+      "name": "MnM-test-bot-v1",
+      "id": "1"
+    },
+    {
+      "connectionString": "3hpX/eMnUeZPJotPmL7X0A==!YdLOvHEl2/G6vUcVAir7GvcoZp+iGmCLduQ5Dt5IvaH3Of2N0b5TypN7UShBcnW/vU/TE9o0At6KcKlcPPIRIwWK+Wv1rLIeAYiZtKuFLOWhJO2v7cU0rt07KYa0Wq4yxK5gt27B2Ah0Ma6OsYq+LjfPW9K2MOAtx/rqDH0xJNMDCMa3ITrJfU41JWD/sF99dRBMVr/5WLAVzbngPS8O1YHEZyOQxZnwxg0wlBSwZ1k=",
+      "tenantId": "8c4858b5-f020-483a-b7ef-71ded6e81767",
+      "subscriptionId": "81723ea3-12e5-481e-8b34-797b8d3cdca5",
+      "resourceGroup": "Bots-RnD",
+      "serviceName": "mnmtestbotv18b1d",
+      "type": "blob",
+      "id": "2"
+    },
+    {
+      "appId": "",
+      "appPassword": "",
+      "endpoint": "http://localhost:9000/api/messages",
+      "type": "endpoint",
+      "name": "development",
+      "id": "3"
+    },
+    {
+      "appId": "a0885684-7a5f-4e48-a77c-f8c3b64ab56b",
+      "appPassword": "4loqW7o+iAOAAW+W+codzw==!hbtT7UFEpgB3lan5uN1ugLUtf2ljR+WUNcty/05h/r4=",
+      "endpoint": "https://mnm-test-bot-v1.azurewebsites.net/api/messages",
+      "type": "endpoint",
+      "name": "production",
+      "id": "4"
+    },
+    {
+      "instrumentationKey": "Dw8oZqrdO/DK+wWFa7ahzQ==!wGuJDlINaMGZVUtOaKT0P4miJR3z28E49PCfkFTGz6W8fhZBB4UcCuG1ss1a0f0p",
+      "applicationId": "8b261703-9b0d-47b7-b4e2-3cdefbe2a6c5",
+      "apiKeys": {},
+      "tenantId": "8c4858b5-f020-483a-b7ef-71ded6e81767",
+      "subscriptionId": "81723ea3-12e5-481e-8b34-797b8d3cdca5",
+      "resourceGroup": "Bots-RnD",
+      "serviceName": "MnM-test-bot-v1u7tfkj",
+      "type": "appInsights",
+      "id": "5"
+    }
+  ]
+}
